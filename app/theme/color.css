@@ -1,0 +1,13 @@
+:root {
+    --primary: white;
+    --secondary: black;
+    --tertiary: grey;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primary: black;
+        --secondary: white;
+        --tertiary: grey;
+    }
+}

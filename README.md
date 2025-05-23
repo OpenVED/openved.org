@@ -1,2 +1,0 @@
-# openved.org
-Official Website !!
