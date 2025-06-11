@@ -8,7 +8,7 @@ class Button extends HTMLElement {
             color : 'var(--base)',
             fontFamily : 'Inter',
             fontWeight : '600',
-            fontSize : '0.9rem',
+            fontSize : '1rem',
             border : 0,
             borderRadius : '8px',
             padding : '8px 32px 8px 32px'
