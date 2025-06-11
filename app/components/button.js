@@ -11,7 +11,8 @@ class Button extends HTMLElement {
             fontSize : '1rem',
             border : 0,
             borderRadius : '8px',
-            padding : '8px 32px 8px 32px'
+            padding : '8px 32px 8px 32px',
+            letterSpacing : '0.05em'
         }
 
         Object.assign(element.style,style)
